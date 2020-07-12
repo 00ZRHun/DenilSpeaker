@@ -2,7 +2,6 @@
 1. en in 1st sight
 2. bg
 
-
 手机影片拍摄 ~ 课程
 Mobile Video & Editing
 
@@ -12,11 +11,10 @@ Denil Choong 锺炼龙
 
 电影制作人 兼 剧本创作人
 
-荣获 2019 三好微电影国际竞赛 
--季军《伤痕》
+荣获 2019 三好微电影国际竞赛 -季军《伤痕》
 
 =>=>=>
-Film Maker 
+Film Maker
 👉 Founder and film director of Yuanmeng Film Company
 
 👉 Film producer and script creator
@@ -123,9 +121,9 @@ https://shinphotos.com/onlineclass/
 https://shinphotos.com/video-2/
 https://www.51zxw.net/list.aspx?cid=698
 
-
 ===
 redundant
+
 <p class="description1">
     <span style="font-size: 20px;">
         使您的<mark style="font-size: 27px">梦想</mark>故事<mark style="font-size: 27px">生动</mark>起来<br>
