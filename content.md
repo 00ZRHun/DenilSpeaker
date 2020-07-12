@@ -120,6 +120,9 @@ https://shinphotos.com/category/school/
 https://shinphotos.com/onlineclass/
 https://shinphotos.com/video-2/
 https://www.51zxw.net/list.aspx?cid=698
+https://study.163.com/course/introduction/1005814025.htm
+https://www.kanwode.tv/course/13286.html
+https://www.sumedu.com/classroom/3/introduction
 
 ===
 redundant
